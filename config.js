@@ -5,5 +5,5 @@ export const CONFIG = {
   refreshTokenExpiresInMinutes: '10080',
   databaseFile: 'database.json',
   urlRewriteFile: 'url-rewrite.json',
-  defaultPort: 8000
+  defaultPort: 3001
 }
